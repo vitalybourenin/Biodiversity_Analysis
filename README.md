@@ -4,4 +4,5 @@ The company Improbable Beef is working on developing a way to manufacture synthe
 
 ![dash](dash.PNG)
 
-- 
+
+- The page allows for users to see multiple measures, including the bacteria types most prevalent in each sample, the amount of times the test subject reported washing their navel, as well as a bubble chart to better visualize the proportion of different bacteria in each subject. 
